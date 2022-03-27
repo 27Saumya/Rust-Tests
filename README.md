@@ -1,2 +1,2 @@
 # Rust-Tests
-Some random Rust Tests
+Some random rust tests
